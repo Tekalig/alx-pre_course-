@@ -1,2 +1,2 @@
-# alx-pre_course-
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+# gcc or c++ programming
+It all about the C++ programming 
